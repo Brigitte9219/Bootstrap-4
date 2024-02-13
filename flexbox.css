@@ -1,0 +1,6 @@
+.servicios>*{
+    border: 1px solid red;
+}
+.servicios{
+    display: flex;
+}
