@@ -1,0 +1,23 @@
+
+
+.bg-primary{
+    background-color:#ff401c !important ;
+}
+.text-primary{
+color: #ff401c !important ;
+}
+.btn-primary{
+    background-color: #ff401c !important;
+    border-color: darken(#ff401c,20%) !important;
+}
+.btn-primary:hover,
+.btn-primary:focus{
+    background-color: (#ff401c,10%) !important;
+}
+.btn-primary:active{
+    background-color: darken(#ff401c,20%) !important;
+    border-color: darken(#ff401c,30%) !important;
+}
+.btn-primary:focus{
+    box-shadow: 0 0 0 0.2rem rgba(#ff401c, .5) !important;
+}
